@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Gorliz Webcam</string>
+    <string name="imageUrl">http://2.139.181.21:81/jpg/1/image.jpg</string>
 </resources>
