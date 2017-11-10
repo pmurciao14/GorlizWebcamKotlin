@@ -1,4 +1,13 @@
 <resources>
     <string name="app_name">Gorliz Webcam</string>
     <string name="imageUrl">http://2.139.181.21:81/jpg/1/image.jpg</string>
+
+    <string name="positionURL_Badia">http://2.139.181.21:81/axis-cgi/com/ptz.cgi?gotoserverpresetno=9</string>
+    <string name="positionURL_Ospitalea">http://2.139.181.21:81/axis-cgi/com/ptz.cgi?gotoserverpresetno=2</string>
+    <string name="positionURL_Astondo">http://2.139.181.21:81/axis-cgi/com/ptz.cgi?gotoserverpresetno=3</string>
+    <string name="positionURL_SanValentin">http://2.139.181.21:81/axis-cgi/com/ptz.cgi?gotoserverpresetno=10</string>
+    <string name="positionURL_Pasealekua">http://2.139.181.21:81/axis-cgi/com/ptz.cgi?gotoserverpresetno=5</string>
+    <string name="positionURL_Parking">http://2.139.181.21:81/axis-cgi/com/ptz.cgi?gotoserverpresetno=4</string>
+    <string name="positionURL_BideGorri">http://2.139.181.21:81/axis-cgi/com/ptz.cgi?gotoserverpresetno=1</string>
+    <string name="positionURL_PlayaGorliz">http://2.139.181.21:81/axis-cgi/com/ptz.cgi?gotoserverpresetno=7</string>
 </resources>
